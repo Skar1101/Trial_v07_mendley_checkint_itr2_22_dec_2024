@@ -1,0 +1,207 @@
+[
+  {
+    "id": "1734704399924",
+    "timestamp": "2024-12-20T14:19:59.924Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:19:59.924Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:19:59.924Z"
+      }
+    ]
+  },
+  {
+    "id": "1734704401035",
+    "timestamp": "2024-12-20T14:20:01.035Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:20:01.035Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:20:01.035Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2024-12-20T14:20:01.035Z"
+      }
+    ]
+  },
+  {
+    "id": "1734704568706",
+    "timestamp": "2024-12-20T14:22:48.706Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:22:48.706Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:22:48.706Z"
+      }
+    ]
+  },
+  {
+    "id": "1734704569299",
+    "timestamp": "2024-12-20T14:22:49.299Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:22:49.299Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:22:49.299Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2024-12-20T14:22:49.299Z"
+      }
+    ]
+  },
+  {
+    "id": "1734704581006",
+    "timestamp": "2024-12-20T14:23:01.006Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:23:01.006Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:23:01.006Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2024-12-20T14:23:01.006Z"
+      },
+      {
+        "role": "user",
+        "content": "souvik sarkar date 20/12/2024",
+        "timestamp": "2024-12-20T14:23:01.006Z"
+      }
+    ]
+  },
+  {
+    "id": "1734704581836",
+    "timestamp": "2024-12-20T14:23:01.836Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:23:01.836Z"
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2024-12-20T14:23:01.836Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! How can I assist you today?",
+        "timestamp": "2024-12-20T14:23:01.836Z"
+      },
+      {
+        "role": "user",
+        "content": "souvik sarkar date 20/12/2024",
+        "timestamp": "2024-12-20T14:23:01.836Z"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello Souvik,\n\nThank you for providing the date. How can I assist you today?",
+        "timestamp": "2024-12-20T14:23:01.836Z"
+      }
+    ]
+  },
+  {
+    "id": "1734706307388",
+    "timestamp": "2024-12-20T14:51:47.388Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:51:47.388Z"
+      },
+      {
+        "role": "user",
+        "content": "I am feeeling low at end of office day. it was hectic",
+        "timestamp": "2024-12-20T14:51:47.388Z"
+      }
+    ]
+  },
+  {
+    "id": "1734706309289",
+    "timestamp": "2024-12-20T14:51:49.289Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-20T14:51:49.289Z"
+      },
+      {
+        "role": "user",
+        "content": "I am feeeling low at end of office day. it was hectic",
+        "timestamp": "2024-12-20T14:51:49.289Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm sorry to hear that you had a hectic day at the office. It's completely normal to feel low or tired after a long day of work. Maybe try to relax and unwind in the evening with some self-care activities or something that brings you joy. Remember to take care of yourself and prioritize your well-being. Tomorrow is a new day and a chance for a fresh start. Take care!",
+        "timestamp": "2024-12-20T14:51:49.289Z"
+      }
+    ]
+  },
+  {
+    "id": "1734794996999",
+    "timestamp": "2024-12-21T15:29:56.999Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-21T15:29:56.999Z"
+      },
+      {
+        "role": "user",
+        "content": "i am feeling down ",
+        "timestamp": "2024-12-21T15:29:56.999Z"
+      }
+    ]
+  },
+  {
+    "id": "1734794999730",
+    "timestamp": "2024-12-21T15:29:59.730Z",
+    "messages": [
+      {
+        "role": "assistant",
+        "content": "Hi! How can I help you today?",
+        "timestamp": "2024-12-21T15:29:59.730Z"
+      },
+      {
+        "role": "user",
+        "content": "i am feeling down ",
+        "timestamp": "2024-12-21T15:29:59.730Z"
+      },
+      {
+        "role": "assistant",
+        "content": "I'm sorry to hear that you're feeling down. It's important to know that it's completely normal to have moments of sadness or low moods. It's okay to not be okay sometimes. Remember to be kind to yourself and take care of your mental well-being. If you need someone to talk to or support, don't hesitate to reach out to a friend, loved one, or mental health professional. You are not alone, and things will get better.",
+        "timestamp": "2024-12-21T15:29:59.730Z"
+      }
+    ]
+  }
+]
